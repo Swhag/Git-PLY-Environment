@@ -1,3 +1,5 @@
+console.log('conflict test here too');
+
 function analyzeArray(arr) {
   let total = 0;
   let average;
