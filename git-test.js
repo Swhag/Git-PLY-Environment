@@ -1,5 +1,4 @@
-const message = 'conflict test - this is what I want to save';
-console.log(message);
+const test = 'test';
 
 function analyzeArray(arr) {
   let total = 0;
