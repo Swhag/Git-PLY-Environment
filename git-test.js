@@ -1,5 +1,4 @@
 const test = 'test';
-const test2 = 'test2';
 
 function analyzeArray(arr) {
   let total = 0;
