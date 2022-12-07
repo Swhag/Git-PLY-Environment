@@ -1,4 +1,5 @@
 const message = 'conflict test - this is what I want to save';
+console.log(message);
 
 function analyzeArray(arr) {
   let total = 0;
