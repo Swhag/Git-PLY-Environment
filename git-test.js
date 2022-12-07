@@ -1,4 +1,4 @@
-console.log('conflict test');
+console.log('conflict test - this is what I want to save');
 
 function analyzeArray(arr) {
   let total = 0;
