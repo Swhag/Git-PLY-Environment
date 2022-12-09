@@ -1,5 +1,3 @@
-const test = 'test';
-
 function analyzeArray(arr) {
   let total = 0;
   let average;
@@ -7,7 +5,7 @@ function analyzeArray(arr) {
   let max = arr.sort((a, b) => b - a)[0];
 
   for (let i = 0; i < arr.length; i++) {
-    total += arr[i];
+    total += arr[i];\web-development-guide
     average = total / arr.length;
   }
 
@@ -20,3 +18,5 @@ function analyzeArray(arr) {
 }
 
 export default analyzeArray;
+
+const test = 'test';
